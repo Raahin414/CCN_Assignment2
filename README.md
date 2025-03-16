@@ -5,21 +5,21 @@
 ### **TCP:**
 1. Run the TCP server:
    ```sh
-   python TCP_server.py
+   python tcp-server.py
    ```
 2. Run the TCP client:
    ```sh
-   python TCP_client.py
+   python tcp-client.py
    ```
 
 ### **UDP:**
 1. Run the UDP server:
    ```sh
-   python UDP_server.py
+   python udp-server.py
    ```
 2. Run the UDP client:
    ```sh
-   python UDP_client.py
+   python udp-client.py
    ```
 
 ---
@@ -55,7 +55,7 @@
 - **TCP introduces overhead** due to congestion and flow control which makes it slower for bulk data transfer however it is a reliable protocol.
 
 ### **4. Use Cases**
-- **TCP** should be used when the data is **loss intolerant** and all data must reach the client, **UDP** must be used when we require higher speed and the data is **loss tolerant
+- **TCP** should be used when the data is **loss intolerant** and all data must reach the client, **UDP** must be used when we require higher speed and the data is **loss tolerant**.
 - **TCP:** Used for **emails, file transfers, web browsing**.
 - **UDP:** Used for **video streaming, online gaming**.
 
