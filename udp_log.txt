@@ -1,0 +1,105 @@
+Message 1: Sent 1400 bytes, No response (packet lost)
+Message 2: Sent 1400 bytes, Received 1410 bytes, RTT: 0.000071 sec
+Message 3: Sent 1400 bytes, Received 1410 bytes, RTT: 0.000105 sec
+Message 4: Sent 1400 bytes, Received 1410 bytes, RTT: 0.000153 sec
+Message 5: Sent 1400 bytes, Received 1410 bytes, RTT: 0.000057 sec
+Message 6: Sent 1400 bytes, Received 1410 bytes, RTT: 0.000313 sec
+Message 7: Sent 1400 bytes, Received 1410 bytes, RTT: 0.000387 sec
+Message 8: Sent 1400 bytes, Received 1410 bytes, RTT: 0.000254 sec
+Message 9: Sent 1400 bytes, Received 1410 bytes, RTT: 0.000225 sec
+Message 10: Sent 1400 bytes, Received 1410 bytes, RTT: 0.000155 sec
+Message 11: Sent 1400 bytes, Received 1410 bytes, RTT: 0.000212 sec
+Message 12: Sent 1400 bytes, Received 1410 bytes, RTT: 0.000187 sec
+Message 13: Sent 1400 bytes, Received 1410 bytes, RTT: 0.000152 sec
+Message 14: Sent 1400 bytes, No response (packet lost)
+Message 15: Sent 1400 bytes, Received 1410 bytes, RTT: 0.000407 sec
+Message 16: Sent 1400 bytes, Received 1410 bytes, RTT: 0.000318 sec
+Message 17: Sent 1400 bytes, Received 1410 bytes, RTT: 0.000296 sec
+Message 18: Sent 1400 bytes, Received 1410 bytes, RTT: 0.000189 sec
+Message 19: Sent 1400 bytes, Received 1410 bytes, RTT: 0.000154 sec
+Message 20: Sent 1400 bytes, Received 1410 bytes, RTT: 0.000127 sec
+Message 21: Sent 1400 bytes, Received 1410 bytes, RTT: 0.000160 sec
+Message 22: Sent 1400 bytes, Received 1410 bytes, RTT: 0.000200 sec
+Message 23: Sent 1400 bytes, Received 1410 bytes, RTT: 0.000127 sec
+Message 24: Sent 1400 bytes, Received 1410 bytes, RTT: 0.000123 sec
+Message 25: Sent 1400 bytes, Received 1410 bytes, RTT: 0.000162 sec
+Message 26: Sent 1400 bytes, Received 1410 bytes, RTT: 0.000175 sec
+Message 27: Sent 1400 bytes, Received 1410 bytes, RTT: 0.000142 sec
+Message 28: Sent 1400 bytes, Received 1410 bytes, RTT: 0.000122 sec
+Message 29: Sent 1400 bytes, Received 1410 bytes, RTT: 0.000123 sec
+Message 30: Sent 1400 bytes, Received 1410 bytes, RTT: 0.000126 sec
+Message 31: Sent 1400 bytes, Received 1410 bytes, RTT: 0.000120 sec
+Message 32: Sent 1400 bytes, Received 1410 bytes, RTT: 0.000167 sec
+Message 33: Sent 1400 bytes, Received 1410 bytes, RTT: 0.000137 sec
+Message 34: Sent 1400 bytes, Received 1410 bytes, RTT: 0.000136 sec
+Message 35: Sent 1400 bytes, Received 1410 bytes, RTT: 0.000147 sec
+Message 36: Sent 1400 bytes, Received 1410 bytes, RTT: 0.000399 sec
+Message 37: Sent 1400 bytes, Received 1410 bytes, RTT: 0.000243 sec
+Message 38: Sent 1400 bytes, No response (packet lost)
+Message 39: Sent 1400 bytes, Received 1410 bytes, RTT: 0.000373 sec
+Message 40: Sent 1400 bytes, No response (packet lost)
+Message 41: Sent 1400 bytes, Received 1410 bytes, RTT: 0.000453 sec
+Message 42: Sent 1400 bytes, Received 1410 bytes, RTT: 0.000223 sec
+Message 43: Sent 1400 bytes, Received 1410 bytes, RTT: 0.000283 sec
+Message 44: Sent 1400 bytes, Received 1410 bytes, RTT: 0.000264 sec
+Message 45: Sent 1400 bytes, Received 1410 bytes, RTT: 0.000330 sec
+Message 46: Sent 1400 bytes, Received 1410 bytes, RTT: 0.000220 sec
+Message 47: Sent 1400 bytes, Received 1410 bytes, RTT: 0.000192 sec
+Message 48: Sent 1400 bytes, Received 1410 bytes, RTT: 0.000152 sec
+Message 49: Sent 1400 bytes, Received 1410 bytes, RTT: 0.000146 sec
+Message 50: Sent 1400 bytes, Received 1410 bytes, RTT: 0.000169 sec
+Message 51: Sent 1400 bytes, Received 1410 bytes, RTT: 0.000153 sec
+Message 52: Sent 1400 bytes, Received 1410 bytes, RTT: 0.000138 sec
+Message 53: Sent 1400 bytes, Received 1410 bytes, RTT: 0.000126 sec
+Message 54: Sent 1400 bytes, Received 1410 bytes, RTT: 0.000124 sec
+Message 55: Sent 1400 bytes, Received 1410 bytes, RTT: 0.000122 sec
+Message 56: Sent 1400 bytes, Received 1410 bytes, RTT: 0.000180 sec
+Message 57: Sent 1400 bytes, Received 1410 bytes, RTT: 0.000133 sec
+Message 58: Sent 1400 bytes, Received 1410 bytes, RTT: 0.000122 sec
+Message 59: Sent 1400 bytes, Received 1410 bytes, RTT: 0.000121 sec
+Message 60: Sent 1400 bytes, Received 1410 bytes, RTT: 0.000123 sec
+Message 61: Sent 1400 bytes, Received 1410 bytes, RTT: 0.002048 sec
+Message 62: Sent 1400 bytes, Received 1410 bytes, RTT: 0.000239 sec
+Message 63: Sent 1400 bytes, Received 1410 bytes, RTT: 0.000178 sec
+Message 64: Sent 1400 bytes, Received 1410 bytes, RTT: 0.000378 sec
+Message 65: Sent 1400 bytes, Received 1410 bytes, RTT: 0.000257 sec
+Message 66: Sent 1400 bytes, Received 1410 bytes, RTT: 0.000190 sec
+Message 67: Sent 1400 bytes, Received 1410 bytes, RTT: 0.000233 sec
+Message 68: Sent 1400 bytes, Received 1410 bytes, RTT: 0.000205 sec
+Message 69: Sent 1400 bytes, No response (packet lost)
+Message 70: Sent 1400 bytes, Received 1410 bytes, RTT: 0.000375 sec
+Message 71: Sent 1400 bytes, Received 1410 bytes, RTT: 0.000248 sec
+Message 72: Sent 1400 bytes, Received 1410 bytes, RTT: 0.000228 sec
+Message 73: Sent 1400 bytes, Received 1410 bytes, RTT: 0.000202 sec
+Message 74: Sent 1400 bytes, Received 1410 bytes, RTT: 0.000175 sec
+Message 75: Sent 1400 bytes, Received 1410 bytes, RTT: 0.000165 sec
+Message 76: Sent 1400 bytes, Received 1410 bytes, RTT: 0.000181 sec
+Message 77: Sent 1400 bytes, Received 1410 bytes, RTT: 0.000172 sec
+Message 78: Sent 1400 bytes, Received 1410 bytes, RTT: 0.000161 sec
+Message 79: Sent 1400 bytes, Received 1410 bytes, RTT: 0.000157 sec
+Message 80: Sent 1400 bytes, Received 1410 bytes, RTT: 0.000159 sec
+Message 81: Sent 1400 bytes, No response (packet lost)
+Message 82: Sent 1400 bytes, Received 1410 bytes, RTT: 0.000656 sec
+Message 83: Sent 1400 bytes, Received 1410 bytes, RTT: 0.000252 sec
+Message 84: Sent 1400 bytes, Received 1410 bytes, RTT: 0.000524 sec
+Message 85: Sent 1400 bytes, Received 1410 bytes, RTT: 0.000194 sec
+Message 86: Sent 1400 bytes, Received 1410 bytes, RTT: 0.000166 sec
+Message 87: Sent 1400 bytes, No response (packet lost)
+Message 88: Sent 1400 bytes, Received 1410 bytes, RTT: 0.000430 sec
+Message 89: Sent 1400 bytes, Received 1410 bytes, RTT: 0.000399 sec
+Message 90: Sent 1400 bytes, No response (packet lost)
+Message 91: Sent 1400 bytes, Received 1410 bytes, RTT: 0.000407 sec
+Message 92: Sent 1400 bytes, Received 1410 bytes, RTT: 0.000352 sec
+Message 93: Sent 1400 bytes, No response (packet lost)
+Message 94: Sent 1400 bytes, Received 1410 bytes, RTT: 0.000521 sec
+Message 95: Sent 1400 bytes, Received 1410 bytes, RTT: 0.000372 sec
+Message 96: Sent 1400 bytes, Received 1410 bytes, RTT: 0.000373 sec
+Message 97: Sent 1400 bytes, Received 1410 bytes, RTT: 0.000326 sec
+Message 98: Sent 1400 bytes, No response (packet lost)
+Message 99: Sent 1400 bytes, No response (packet lost)
+Message 100: Sent 1400 bytes, Received 1410 bytes, RTT: 0.000708 sec
+
+UDP Test Summary:
+Average RTT (for received packets): 0.000251 sec
+Packet Loss Rate: 11.00%
+Throughput (approx.): 6264028.50 bytes/sec
